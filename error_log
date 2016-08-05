@@ -1,0 +1,4 @@
+[22-Jun-2016 08:58:07 America/Chicago] PHP Fatal error:  Class 'WP_Error' not found in /home1/eric/public_html/wordpress/wp-content/plugins/aus-tour-reservations/reservation-new.php on line 119
+[22-Jun-2016 09:01:39 America/Chicago] PHP Fatal error:  Class 'WP_Error' not found in /home1/eric/public_html/wordpress/wp-content/plugins/aus-tour-reservations/reservation-new.php on line 117
+[22-Jun-2016 09:10:48 America/Chicago] PHP Fatal error:  Class 'WP_Error' not found in /home1/eric/public_html/wordpress/wp-content/plugins/aus-tour-reservations/reservation-new.php on line 117
+[22-Jun-2016 09:36:02 America/Chicago] PHP Fatal error:  Class 'WP_Error' not found in /home1/eric/public_html/wordpress/wp-content/plugins/aus-tour-reservations/reservation-new.php on line 119
